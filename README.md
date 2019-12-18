@@ -27,12 +27,12 @@ See setup instructions <br>
 ### description of project
 making imitation of tokopedia ui   from newbe<br>
 ### All UI are Fake from Tokped
-<div>
-    <tr>
-    Home Screen <br> ![](demo/home_demo.gif)
-    Feed Screen <br> ![](demo/testgrid.gif)
-    </tr>
-</div>
+
+
+![Home Screen UI ](demo/home_demo.gif)
+![Feed Screen UI](demo/testgrid.gif)
+
+  
 
 
 
