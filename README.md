@@ -1,6 +1,6 @@
 
 <p align="center">
-UI Toolset & Components Library for React Native
+FAKE UI TOKPED
 <img src="https://www.tagar.id/Asset/uploads2019/1575050504675-logo-tokopedia.jpg"/>
 </p>
 
@@ -22,7 +22,7 @@ See setup instructions <br>
 
 #### For React Native  0.61.4
 
-## Create your own Design System in 3 easy steps
+## You can custome design with edit m=our code
 
 ### description of project
 making imitation of tokopedia ui   from newbe<br>
