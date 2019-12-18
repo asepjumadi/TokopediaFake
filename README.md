@@ -25,5 +25,6 @@ See setup instructions <br>
 ## Create your own Design System in 3 easy steps
 
 ### description of project
-making imitation of tokopedia ui   from newbe
+making imitation of tokopedia ui   from newbe<br>
+(demo/home_demo.gif)
 
