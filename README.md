@@ -22,10 +22,10 @@ See setup instructions <br>
 
 #### For React Native  0.61.4
 
-## You can custome design with edit m=our code
+## You can custome design with edit our code
 
 ### description of project
-making imitation of tokopedia ui   from newbe<br>
+making imitation of tokopedia ui from zero to hero<br>
 ### All UI are Fake from Tokped
 
 
