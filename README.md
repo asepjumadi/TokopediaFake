@@ -29,4 +29,6 @@ making imitation of tokopedia ui   from newbe<br>
 ### All UI are Fake from Tokped
 # Home Screen
 ![](demo/home_demo.gif)
+# Feed Screen
+![](demo/testgrid.gif)
 
