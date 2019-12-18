@@ -26,5 +26,5 @@ See setup instructions <br>
 
 ### description of project
 making imitation of tokopedia ui   from newbe<br>
-!(demo/home_demo.gif)
+![](demo/home_demo.gif)
 
